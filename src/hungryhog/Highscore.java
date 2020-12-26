@@ -1,9 +1,5 @@
 package hungryhog;
 
-import java.util.Comparator;
-
-
-
 public class Highscore { //implements Comparator<Highscore>{
 
 	/*public String name;

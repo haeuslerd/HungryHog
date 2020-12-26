@@ -3,9 +3,6 @@ package hungryhog;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import java.util.Timer;
-import java.util.TimerTask;
-
 public class Abbruch {
     Timer l;
     private int tada = 0;
