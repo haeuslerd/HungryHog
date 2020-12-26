@@ -1,0 +1,16 @@
+Quellverzeichnis:
+
+1) http://www.hs-weingarten.de/~keller/Downloads/grabo/java/DokumentierenMitJavadoc.pdf
+2) https://javabeginners.de/Grafik/Bild_laden.php
+3) https://www.youtube.com/watch?v=7RlI2VioVtc&list=PLj0NZBHsZJkOh5kg9OW7_kZwWWnHPhfxt
+4) https://docs.oracle.com/javase/7/docs/api/java/util/Timer.html
+5) Programmieren lernen mit Java; Hans-Peter Habelitz; Rheinwerk Computing
+7)Java ist auch eine Insel; Christian Ullenboom; Rheinwerk Computing
+8) https://de.pinterest.com/DaAdventureCow/animated-pigs/
+9)//http://www.bildburg.de/wp-content/uploads/2016/02/wiese-im-sommer.jpg
+10)http://www.animaatjes.de/bilder/birne/
+11)https://clipartfox.com/download/2738c1966a7f0bde641f07ee84049f7dbb63dfbc.html
+
+
+Verwendung von TimerTasks anstatt von Threads, da sie einfacher handzuhaben und übersichtlicher sind.
+
